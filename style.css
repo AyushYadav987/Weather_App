@@ -29,14 +29,14 @@ body{
   object-fit: contain;
 }
 
-.weather-icon.large{
-  width: 80px;
-  height: 80px;
-}
-
 .header-current-temp{
   font-size: 2rem;
   margin-left: 1rem;
+}
+
+.weather-icon.large{
+  width: 80px;
+  height: 80px;
 }
 
 .header-right{
